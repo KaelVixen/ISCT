@@ -97,4 +97,5 @@ Because every chart is fed by PivotTables (not hardcoded numbers), the dashboard
 | PivotCharts + Slicers | Drive all dashboard charts from filterable, linked pivot data |
 
 **7. Conclusion**
+
 The dashboard converts a static 91k-row export into a self-service tool that answers the four business questions in Section 1 on demand — without any manual filtering. The clearest operational takeaway is the mismatch between steady reorder point volume and sharply seasonal demand, which is a starting point for revisiting reorder policy going into next year.
